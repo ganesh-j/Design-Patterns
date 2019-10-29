@@ -3,6 +3,11 @@ Structural
 Behavioural
 
 
+JavaEE design patterns
+ MVC
+ DTO
+ 
+
 Construction
  1.Singleoton
  2.Prototype
