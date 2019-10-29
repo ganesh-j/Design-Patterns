@@ -1,3 +1,11 @@
 Construction
 Structural
 Behavioural
+
+
+Construction
+ 1.Singleoton
+ 2.Prototype
+ 3.Builder
+ 4.Factory
+ 5.Abstarct Factory
